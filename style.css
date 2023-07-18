@@ -266,24 +266,25 @@ width: 100px;
 }
 
   .profile-card {
-  float: left;
-  width: 100%;
-  padding-inline: 15px;
-    /* float: left;
+    float: left;
     margin: 15px auto;
     width: 100%;
     box-shadow: 5px 10px #888888;
     background-color: #F2F2F2;
     border-radius: 10px;
     padding: 35px;
-    text-align: center; */
+    text-align: center;
 }
 
 .profile-card-box {
     float: left;
-  width: 50%;
-  padding-inline: 15px;
-  padding: 15px;
+    width: 100%;
+    margin: 15px auto;
+    box-shadow: 5px 10px #888888;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    padding: 35px;
+    text-align: center;
 }
 
   
